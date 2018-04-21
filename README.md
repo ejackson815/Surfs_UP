@@ -6,5 +6,5 @@ This assignment was designed to test critcial aspects and our fundamental knowle
 
 ## The Process
 
-
+(images/process.png?raw=true "Trust the Process")
 
