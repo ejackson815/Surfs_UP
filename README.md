@@ -12,5 +12,5 @@ Some SQL Alchemy topics covered in the homework are as follows
 
 ## The Process
 
-
+![process](https://user-images.githubusercontent.com/33049060/39083372-120cb076-4518-11e8-9639-ef49e5047ce9.png)
 
